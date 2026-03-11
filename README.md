@@ -1,5 +1,7 @@
-<h1>About Intuz</h1>
-This library is maintained by Intuz (https://www.intuz.com) — an AI-first software development company specializing in AI solutions development (https://www.intuz.com/ai-development), AI workflow automation services (https://www.intuz.com/workflow-automation-services) and cloud engineering.
+## About Intuz
+
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [React Native app development](https://www.intuz.com/react-native-development)
+and [custom mobile app development](https://www.intuz.com/custom-app-development).
 <br><br>
 INTUZ brings to you an amazing readymade component which allows you to integrate Rating features inside your React Native based application supporting both Android and iOS platforms. Try it your self by following below instructions, Happy Coding.
 
